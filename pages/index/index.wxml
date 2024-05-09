@@ -1,5 +1,6 @@
 <!--index.wxml-->
 <view class="home">
   sdfdsfdsfsdfsdfdsfds
+  <view>你好啊</view>
 </view>
 
