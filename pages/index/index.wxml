@@ -1,7 +1,5 @@
 <!--index.wxml-->
-
-  <view class="usermotto">
-    <text class="user-motto">{{motto}}</text>
-    <button bind:tap="getUserProfile">点击改变</button>
-  </view>
+<view class="home">
+  
+</view>
 
