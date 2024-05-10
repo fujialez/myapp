@@ -1,9 +1,8 @@
 <!--index.wxml-->
 <view class="home">
-  sdfdsfdsfsdfsdfdsfds
-  <view>你好啊!dsfds!</view>
-  <view>你好我是李云泽</view>
-  <view>付佳乐</view>
-  <view>dsofmsdiofmdsoifmodsimfoidsmom</view>
+  <view class="header">
+    <button class="searchBtn">杭州旅游</button>
+    <view>你好啊但是</view>
+  </view>
 </view>
 
