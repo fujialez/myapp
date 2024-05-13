@@ -1,8 +1,12 @@
 <!--index.wxml-->
 <view class="home">
   <view class="header">
-    <button class="searchBtn">杭州旅游</button>
-    <view>你好啊但是3243324232</view>
+    <button class="searchBtn">杭州旅游111</button>
+    <view>1324fgfhf2s1</view>
+    
+    <scroll-view scroll-x="true">
+      
+    </scroll-view>
   </view>
 </view>
 

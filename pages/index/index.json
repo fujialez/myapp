@@ -1,3 +1,5 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "type-item": "components/typeItem/typeitem"
+  }
 }
