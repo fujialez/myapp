@@ -1,7 +1,7 @@
 <!--index.wxml-->
 <view class="home">
   <view class="header">
-    <button class="searchBtn">欢迎来到杭州</button>
+    <button class="searchBtn">欢迎来到杭州111</button>
   </view>
 </view>
 
