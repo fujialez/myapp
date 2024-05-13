@@ -1,12 +1,7 @@
 <!--index.wxml-->
 <view class="home">
   <view class="header">
-    <button class="searchBtn">杭州旅游111</button>
-    <view>1324fgfhf2s1</view>
-    
-    <scroll-view scroll-x="true">
-      
-    </scroll-view>
+    <button class="searchBtn">欢迎来到杭州</button>
   </view>
 </view>
 
